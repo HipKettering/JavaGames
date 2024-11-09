@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\DEV\JavaWorkspace\JavaGame\JavaPlayground\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+1544056821.index
+2714976402.index
